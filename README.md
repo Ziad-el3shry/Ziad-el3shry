@@ -15,10 +15,10 @@ I thrive on bridging academic rigor with practical deployment, constantly seekin
 
 | Project | Description |
 |--------|-------------|
-| 🫀 [Heart Disease ML Pipeline](https://github.com/Ziad-el3shry/heart-disease-ml-pipeline.git) | End-to-end pipeline using the UCI dataset, including preprocessing, feature selection, model tuning, performance evaluation, and unsupervised clustering for clinical insights. |
-| 😷 [COVID‑19 X-ray Classifier](https://github.com/Ziad-el3shry/covid19-cnn-classifier.git) | Deep CNN model for COVID‑19 detection from X-ray images with transfer learning and augmentation. Includes interpretability features for clinical transparency. |
-| 😊 [Emotion Recognition App](https://github.com/Ziad-el3shry/emotion-recognition-app) | Streamlit-based UI integrating DeepFace, OpenCV, and NumPy to enable real-time emotion detection from video and image inputs. Modularized for easy reuse and open-source collaboration. |
-| ♻️ [Smart Waste Classifier](https://github.com/Ziad-el3shry/waste-classifier-deep-learning-capstone) | Deep learning capstone using CNNs to automate waste classification for sustainability efforts. Implemented augmentation, class balancing, and performance visualization. |
+| [Heart Disease ML Pipeline](https://github.com/Ziad-el3shry/heart-disease-ml-pipeline.git) | End-to-end pipeline using the UCI dataset, including preprocessing, feature selection, model tuning, performance evaluation, and unsupervised clustering for clinical insights. |
+| [COVID‑19 X-ray Classifier](https://github.com/Ziad-el3shry/covid19-cnn-classifier.git) | Deep CNN model for COVID‑19 detection from X-ray images with transfer learning and augmentation. Includes interpretability features for clinical transparency. |
+| [Emotion Recognition App](https://github.com/Ziad-el3shry/emotion-recognition-app) | Streamlit-based UI integrating DeepFace, OpenCV, and NumPy to enable real-time emotion detection from video and image inputs. Modularized for easy reuse and open-source collaboration. |
+| [Smart Waste Classifier](https://github.com/Ziad-el3shry/waste-classifier-deep-learning-capstone) | Deep learning capstone using CNNs to automate waste classification for sustainability efforts. Implemented augmentation, class balancing, and performance visualization. |
 
 > Each repository includes structured code, detailed documentation, and annotated notebooks for full transparency and reproducibility.
 
@@ -64,6 +64,6 @@ My mission is to contribute to building **ethical, explainable, and deployable A
 
 ## 📫 Let's Collaborate
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ziad-attia-4b1843241/)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ziad-attia-gamal/)  
 - 📧 Email: `ziadattiagamal@gmail.com`  
 - 🌍 Location: Egypt | Available for Remote Roles & Research Collaborations

@@ -1,5 +1,5 @@
 <h1 align="center">Ziad Elhafian</h1>
-<p align="center"><em>AI & Machine Learning Engineer | IBM AI Certified | Route Academy Graduate</em></p>
+<p align="center"><em>AI & Machine Learning Developer | IBM AI Certified | Route Academy Graduate</em></p>
 
 ---
 
